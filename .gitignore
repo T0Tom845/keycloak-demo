@@ -1,6 +1,7 @@
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
+!/target/keycloak-demo-0.0.1.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
